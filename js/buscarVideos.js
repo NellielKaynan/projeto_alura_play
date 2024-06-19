@@ -4,3 +4,5 @@ async function buscarVideo() {
     const dadosDePesquisa = document.querySelector("[data-pesquisa]").value
     const busca = await conectaApi.buscaVideos(dadosDePesquisa);
 }
+
+//teste git hub 
