@@ -5,4 +5,3 @@ async function buscarVideo() {
     const busca = await conectaApi.buscaVideos(dadosDePesquisa);
 }
 
-//teste git hub 
